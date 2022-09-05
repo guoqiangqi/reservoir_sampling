@@ -1,4 +1,7 @@
 # -*- coding: utf-8 -*-
+```
+reference to https://huangjj27.gitlab.io/posts/fair-lottery/
+```
 import random
 SAMPLE_COUNT = 10
 
